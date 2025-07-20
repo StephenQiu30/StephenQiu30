@@ -40,7 +40,7 @@ const grt = {
       </a>
     </td>
     <td>
-      I'm working hard on developing <a href="https://github.com/Stephenqhd30/grtblog">grtblog</a>, which is one of my most energy-consuming works.  
+      I'm working hard on developing <a href="https://github.com/Stephenqhd30/Stephenqhd30">Stephenqhd30</a>, which is one of my most energy-consuming works.  
       I really hope it becomes useful and unique, and that it's easy to deploy and use.  
       Although it's still a work in progress, I want to improve it using all the skills I have 💻✨.
     </td>
