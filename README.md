@@ -80,7 +80,7 @@ const grt = {
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="mailto:Stephenqhd30@outlook.com">
+  <a href="mailto:Popcornqhd@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Stephenqhd30">
