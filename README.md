@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/StephenQiu30/StephenQiu30/main/.github/profile-logo.png" alt="Logo" width="120" height="120" style="border-radius: 50%">
+  <img src="https://avatars.githubusercontent.com/u/89136224?s=400&u=4020d5cb21a5cafff3b1c46ced7c17d8aacd859a&v=4" alt="Logo" width="120" height="120" style="border-radius: 50%">
 
   # 👋 Hi there, I'm StephenQiu30
 
