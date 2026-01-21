@@ -84,13 +84,14 @@ A comprehensive personal project that represents my dedication to software excel
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StephenQiu30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=79C0FF&text_color=C9D1D9&title_color=79C0FF&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephenQiu30&theme=tokyonight&hide_border=true&bg_color=0D1117&stroke=79C0FF&ring=79C0FF&fire=FFB86C&currStreakLabel=79C0FF" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=StephenQiu30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=79C0FF&text_color=C9D1D9&title_color=79C0FF&count_private=true&include_all_commits=true&custom_title=Contributions" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenQiu30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&hide=HTML,CSS,Jupyter%20Notebook" alt="Top Languages" width="50%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenQiu30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&hide=HTML,CSS,Jupyter%20Notebook" alt="Top Languages"/>
+  <br/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StephenQiu30&theme=tokyo-night&bg_color=0D1117&color=79C0FF&line=58A6FF&point=FFB86C&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
-
----
 
 ## 🎯 Current Focus
 
