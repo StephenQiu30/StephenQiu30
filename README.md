@@ -29,7 +29,7 @@
 
 ## 🛠️ 核心项目
 
-### ☁️ [Trajectory (轨迹)](https://github.com/StephenQiu30/stephen-cloud)
+### ☁️ [Trajectory (轨迹)](https://github.com/StephenQiu30/trajectory-cloud)
 **高性能分布式微服务架构**
 - **Java 21 & Spring Boot 3.5**: 工业级微服务最佳实践。
 - **LangChain4j**: 多模型平滑切换，AI 驱动业务。
@@ -42,7 +42,7 @@
 - **可视化教学**: 算法执行全过程动态展示。
 - **全栈架构**: Next.js 交互层 + 微服务后端。
 
-### 🚢 [Code Ark (代码方舟)](https://github.com/StephenQiu30/stephen-backend)
+### 🚢 [Code Ark (代码方舟)](https://github.com/StephenQiu30/code-ark)
 **通用后端开发脚手架**
 - **一键启动**: 30+ 核心能力开箱即用。
 - **安全加固**: Sa-Token 权限、RSA/AES 加密、Redisson 分布式锁。
