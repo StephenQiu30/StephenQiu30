@@ -20,10 +20,10 @@
 
 ## 👨‍💻 关于我
 
-- 🔭 **Focus**: **Trajectory (轨迹)** 系列微服务架构 & **Algorithm (算法)** 智能化教学系统。
-- ⚡ **Stack**: Java 21, Spring Cloud Alibaba, LangChain4j (AI), React/Next.js.
-- 💡 **Motto**: 代码即艺术，极致简洁。
-- 🐧 **OS**: Arch Linux.
+- **方向**：Java 后端 / 分布式与微服务 / AI 工程化（RAG、Prompt、SSE）
+- **技术栈**：Spring Cloud Alibaba、Redis、RabbitMQ、MySQL、Elasticsearch、Netty(WebSocket)、React/Next.js
+- **亮点**：6 项国家计算机软件著作权；CET-4；英文技术文档阅读
+- **经历**：河南大学信息化中心 Java 后端（校级招聘系统投产，支撑 2025 辅导员招聘）
 
 ---
 
@@ -31,16 +31,38 @@
 
 ### ☁️ [Trajectory (轨迹)](https://github.com/StephenQiu30/trajectory-cloud)
 **高性能分布式微服务架构**
-- **Java 21 & Spring Boot 3.5**: 工业级微服务最佳实践。
-- **LangChain4j**: 多模型平滑切换，AI 驱动业务。
-- **异步架构**: RabbitMQ 异步一致性 + ELK 日志。
-- **全链路**: 网关鉴权、服务治理、ES 搜索、Netty 实时通信。
+- **微服务底座**：Spring Cloud Alibaba 服务拆分与组件接入
+- **高并发组件**：Redis（含分布式锁/限流）、RabbitMQ 异步削峰
+- **实时通信**：Netty + WebSocket（分布式场景结合 MQ 广播同步）
+- **检索与诊断**：MySQL 索引/事务与 Explain 调优；Elasticsearch Mapping/DSL
 
 ### 🤖 [Algorithm (算法)](https://github.com/StephenQiu30/algorithm-cloud)
-**RAG 增强型算法教学系统**
-- **知识库问答**: 向量数据库 + RAG 检索。
-- **可视化教学**: 算法执行全过程动态展示。
-- **全栈架构**: Next.js 交互层 + 微服务后端。
+**RAG 增强型交互式算法教学系统（毕设）**
+- **ETL + 智能分块**：多源数据抽取/清洗/分块，结合召回评估持续迭代
+- **双路召回**：Elasticsearch 关键词检索 + 向量语义检索，Mapping/DSL 重构优化聚合过滤
+- **量化结果**：核心检索耗时 19s → 毫秒级；召回率提升 20%+
+- **流式交互降本**：SSE 首字毫秒级；Redis 会话状态机 + 动态滑动窗裁剪/复用上下文 Token
+- **全栈交付**：Next.js SSR 前台 + 微服务后端闭环
+
+---
+
+## 📄 软件著作权（6 项）
+
+- 轨迹-基于 AIGC 的数据可视化分析平台
+- 基于多模块架构的高可用系统
+- 基于 React Native 的非遗软件
+- 佳乐校园—大学人员信息平台
+- EduRecruit-校园招聘管理系统
+- WebSocket-智能图库管理助手
+
+---
+
+## 🧩 代表性落地（工程化能力）
+
+- **校级招聘系统（河南大学信息化中心）**：发布-报名-审核-通知全流程接口落地，正式投产并支撑 2025 辅导员招聘，承载数万访问
+- **批量导出与模板渲染**：EasyExcel 流式读写 + documents4j/Word 邮件合并，实现 PDF/Word 批量生成，降低大批量处理内存压力
+- **异步与推送**：RabbitMQ 异步化验证码/邮件等耗时链路；Netty WebSocket 审核状态低延迟推送
+- **多级缓存**：Redis + Caffeine 读写策略与失效机制，核心信息流接口响应优化至毫秒级
 
 ### 🚢 [Code Ark (代码方舟)](https://github.com/StephenQiu30/code-ark)
 **通用后端开发脚手架**
