@@ -1,136 +1,39 @@
 <div align="center">
-  <img src="https://github.com/StephenQiu30.png" width="120" style="border-radius:50%;box-shadow:0 0 20px rgba(0,0,0,0.1)" />
-  <h1>👋 Hi，我是 StephenQiu30</h1>
+  <img src="https://github.com/StephenQiu30.png" width="96" alt="Stephen Qiu profile photo" />
+  <h1>Stephen Qiu</h1>
+  <p><strong>AI Application Engineer · Java Full-Stack Developer</strong></p>
+  <p>Building production-ready RAG, AI Agent and distributed systems.</p>
   <p>
-    <a href="mailto:Popcornqhd@gmail.com"><img src="https://img.shields.io/badge/Email-Popcornqhd@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
-    <a href="https://github.com/StephenQiu30"><img src="https://img.shields.io/badge/GitHub-StephenQiu30-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+    <a href="mailto:Popcornqhd@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Stephen Qiu" /></a>
+    <a href="https://github.com/StephenQiu30"><img src="https://img.shields.io/github/followers/StephenQiu30?style=flat-square&logo=github&label=Follow" alt="Follow StephenQiu30 on GitHub" /></a>
   </p>
 </div>
 
----
+## About Me / 关于我
 
-一名 AI 应用开发工程师 / Java 全栈开发：
+I'm **Stephen Qiu** ([`@StephenQiu30`](https://github.com/StephenQiu30)), an **AI Application Engineer** and **Java Full-Stack Developer** based in Shanghai, China. I design and build Retrieval-Augmented Generation (**RAG**) systems, **AI Agents**, distributed backends and modern web applications.
 
-- 🤖 专注 **RAG 系统**与 **Agent 架构**落地，让大模型真正服务于业务
-- 💻 Java 后端 + 分布式微服务 + React/Next.js 全栈交付能力
-- 📐 擅长 Harness 编排、Prompt Engineering、双路召回、Streaming 降本
-- 📄 6 项国家计算机软件著作权
-- 🏫 河南大学信息化中心 Java 后端，校级招聘系统正式投产
+我专注于把大模型能力落到真实产品，关注检索质量、响应速度、系统稳定性与工程成本。
 
-也许你需要：
+- **AI Engineering:** RAG · AI Agent · Hybrid Search · Prompt Engineering · SSE Streaming
+- **Backend Engineering:** Java · Spring Boot / Cloud · Go · Python · FastAPI · Distributed Systems
+- **Full-Stack Delivery:** React · Next.js · TypeScript · Docker · PostgreSQL · Redis
+- 参与河南大学校级招聘系统建设，负责 Java 后端并推动正式投产
 
-- 🔥 开源作品：[Algorithm](https://github.com/StephenQiu30/algorithm-cloud) | [Trajectory](https://github.com/StephenQiu30/trajectory-cloud) | [HotKey](https://github.com/StephenQiu30/hotkey-server) | [MallChat](https://github.com/StephenQiu30/mallchat-cloud) | [RTC Reader](https://github.com/StephenQiu30/rtc-reader) | [Code Ark](https://github.com/StephenQiu30/code-ark)
+## Pinned Projects / 精选项目
 
----
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[Code Ark](https://github.com/StephenQiu30/code-ark)** | 跨平台 Docker 开发环境集合，开箱即用 | Shell · Docker |
+| **[HotKey](https://github.com/StephenQiu30/hotkey-server)** | 本地优先的 AI 热点监控与 Obsidian 知识库治理后端 | Go · AI |
+| **[Video Server](https://github.com/StephenQiu30/video-server)** | 可自托管的视频下载与 AI 视觉分析平台 | Python · FastAPI · Next.js |
+| **[Algorithm](https://github.com/StephenQiu30/algorithm-cloud)** | RAG 增强型交互式算法教学系统 | Java · RAG · Elasticsearch |
+| **[Lanverse](https://github.com/StephenQiu30/lanverse)** | AI 绘画提示词与生成效果知识库 | Python · FastAPI · Next.js |
 
-### 🏠 开源项目
+## Tech Stack / 技术栈
 
-#### 🤖 [Algorithm (算法)](https://github.com/StephenQiu30/algorithm-cloud) — RAG 增强型交互式算法教学系统
-- **双路召回**：Elasticsearch 关键词检索 + 向量语义检索，Mapping/DSL 重构优化聚合过滤
-- **量化结果**：核心检索耗时 19s → 毫秒级；召回率提升 20%+
-- **流式交互降本**：SSE 首字毫秒级；Redis 会话状态机 + 动态滑动窗裁剪/复用上下文 Token
-- **全栈交付**：Next.js SSR 前台 + 微服务后端闭环 → [Admin](https://github.com/StephenQiu30/algorithm-admin) · [Next](https://github.com/StephenQiu30/algorithm-next)
+`RAG` · `AI Agent` · `LangChain4j` · `Java` · `Spring Cloud` · `Go` · `Python` · `FastAPI` · `React` · `Next.js` · `PostgreSQL` · `Redis` · `RabbitMQ` · `Elasticsearch` · `Docker`
 
-#### ☁️ [Trajectory (轨迹)](https://github.com/StephenQiu30/trajectory-cloud) — 高性能分布式微服务架构
-- **微服务底座**：Spring Cloud Alibaba 服务拆分与组件接入
-- **高并发组件**：Redis（含分布式锁/限流）、RabbitMQ 异步削峰
-- **实时通信**：Netty + WebSocket（分布式场景结合 MQ 广播同步）
-- **检索与诊断**：MySQL 索引/事务与 Explain 调优；Elasticsearch Mapping/DSL → [Admin](https://github.com/StephenQiu30/trajectory-admin) · [Next](https://github.com/StephenQiu30/trajectory-next) · [Frontend](https://github.com/StephenQiu30/trajectory-frontend)
+## Let's Connect / 联系我
 
-#### 🔥 [HotKey (热点)](https://github.com/StephenQiu30/hotkey-server) — 热点聚合 AI 系统
-- **数据采集**：FastAPI 多源数据源采集与任务调度
-- **AI 能力**：AI 摘要生成、智能选题、热点聚合
-- **多端交付**：Next.js Web 工作台（趋势分析/可视化）+ Taro 跨端小程序 → [Web](https://github.com/StephenQiu30/hotkey-web) · [MiniApp](https://github.com/StephenQiu30/hotkey-miniapp)
-
-#### 💬 [MallChat](https://github.com/StephenQiu30/mallchat-cloud) — 分布式实时聊天系统
-- **微服务后端**：Java 微服务架构，支持分布式场景
-- **多端覆盖**：Taro 小程序 + Flutter App + UniApp 多端适配 → [Admin](https://github.com/StephenQiu30/mallchat-admin) · [Taro](https://github.com/StephenQiu30/mallchat-taro) · [Flutter](https://github.com/StephenQiu30/mallchat-flutter) · [UniApp](https://github.com/StephenQiu30/mallchat-uniapp)
-
-#### 📖 [RTC Reader](https://github.com/StephenQiu30/rtc-reader) — AI 实时朗读助手
-- **视觉识别**：火山引擎 RTC 摄像头实时捕捉，翻页即读
-- **AI 能力**：大模型视觉理解 + TTS 语音合成（iOS / Swift）
-
-#### 🚢 [Code Ark (代码方舟)](https://github.com/StephenQiu30/code-ark) — 通用后端开发脚手架
-- **一键启动**：30+ 核心能力开箱即用
-- **安全加固**：Sa-Token 权限、RSA/AES 加密、Redisson 分布式锁
-- **数据流**：MySQL + Redis + Canal 数据实时同步
-
----
-
-### 🛠️ 技术栈
-
-<table align="center">
-  <tr>
-    <td align="center" width="180"><b>AI / Agent</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/LangChain4j-FF6B6B?style=flat-square&logo=chainlink&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangChain-1A56DB?style=flat-square&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RAG_Pipeline-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Multi--Agent-6366F1?style=flat-square&logo=robot-framework&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Prompt_Engineering-10B981?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Embedding-8B5CF6?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vector_Search-EC4899?style=flat-square&logo=elastic&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SSE_Streaming-F59E0B?style=flat-square&logo=socket.io&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MyBatis--Plus-336791?style=flat-square&logo=icloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Netty-00897B?style=flat-square&logo=netty&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Python</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LlamaIndex-FF6B6B?style=flat-square&logo=llamaindex&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Taro-3498DB?style=flat-square&logo=taro&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Infra</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Nacos-007ACC?style=flat-square&logo=nacos&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Canal-FF6B6B?style=flat-square&logo=alibabacloud&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📄 软件著作权（6 项）
-
-- 轨迹-基于 AIGC 的数据可视化分析平台
-- 基于多模块架构的高可用系统
-- 基于 React Native 的非遗软件
-- 佳乐校园—大学人员信息平台
-- EduRecruit-校园招聘管理系统
-- WebSocket-智能图库管理助手
-
----
-
-<div align="center">
-  <a href="mailto:Popcornqhd@gmail.com"><img src="https://img.shields.io/badge/Email-Popcornqhd@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
-  <a href="https://github.com/StephenQiu30"><img src="https://img.shields.io/badge/GitHub-StephenQiu30-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-</div>
+欢迎交流 **RAG、AI Agent、Java 后端、分布式系统与全栈开发**。你可以发送邮件至 [Popcornqhd@gmail.com](mailto:Popcornqhd@gmail.com)，或访问 [StephenQiu30 的 GitHub 主页](https://github.com/StephenQiu30)。
