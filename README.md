@@ -16,65 +16,25 @@
 
 ## ✨ Featured Projects / 精选项目
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐳 <a href="https://github.com/StephenQiu30/code-ark">Code Ark · 代码方舟</a></h3>
-      <a href="https://github.com/StephenQiu30/code-ark/stargazers"><img src="https://img.shields.io/github/stars/StephenQiu30/code-ark?style=social" alt="Code Ark GitHub stars" /></a>
-      <p><strong>One command. Your entire dev middleware, ready.</strong></p>
-      <p>17 个开箱即用的 Docker Compose 本地开发环境：MySQL、PostgreSQL、Redis、Kafka、Elasticsearch、Nacos、MinIO、Prometheus + Grafana……按需启动，告别繁琐的中间件搭建。</p>
-      <p><code>Docker Compose</code> <code>Local Dev</code> <code>Middleware</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/StephenQiu30/video-server">FrameFetch · 帧取</a></h3>
-      <a href="https://github.com/StephenQiu30/video-server/stargazers"><img src="https://img.shields.io/github/stars/StephenQiu30/video-server?style=social" alt="FrameFetch GitHub stars" /></a>
-      <p><strong>From a video link to an AI insight report — self-hosted.</strong></p>
-      <p>开源自托管的视频解析与 AI 分析工作流：公开视频下载、剧本文档处理、结构化 AI 报告一键导出 Markdown / DOCX，Docker 一键启动，数据始终在你手里。</p>
-      <p><code>FastAPI</code> <code>Next.js</code> <code>FFmpeg</code> <code>LLM</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔥 <a href="https://github.com/StephenQiu30/hotkey-server">HotKey · 知微见澜</a></h3>
-      <a href="https://github.com/StephenQiu30/hotkey-server/stargazers"><img src="https://img.shields.io/github/stars/StephenQiu30/hotkey-server?style=social" alt="HotKey GitHub stars" /></a>
-      <p><strong>See the signal before it trends.</strong></p>
-      <p>本地优先的 AI 热点监控引擎：从一个关键词出发，追踪 Hacker News、RSS 与全网动态，自动生成可溯源的舆情日报，沉淀为你的 Obsidian 知识库。</p>
-      <p><code>Python</code> <code>pgvector</code> <code>Kafka</code> <code>AI</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎭 <a href="https://github.com/StephenQiu30/lanverse">Lanverse</a></h3>
-      <a href="https://github.com/StephenQiu30/lanverse/stargazers"><img src="https://img.shields.io/github/stars/StephenQiu30/lanverse?style=social" alt="Lanverse GitHub stars" /></a>
-      <p><strong>From script to screen, one AI pipeline.</strong></p>
-      <p>AI 短剧制作平台：剧本解析 → 角色设定 → 分镜 → 视频生成 → 配音，每一步 AI 出稿、人工把关，可审阅、可恢复、成本透明。<em>新架构重建中。</em></p>
-      <p><code>Go</code> <code>Temporal</code> <code>Next.js</code> <code>AIGC</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/StephenQiu30/algorithm-cloud">Algorithm Cloud</a></h3>
-      <a href="https://github.com/StephenQiu30/algorithm-cloud/stargazers"><img src="https://img.shields.io/github/stars/StephenQiu30/algorithm-cloud?style=social" alt="Algorithm Cloud GitHub stars" /></a>
-      <p><strong>A production-grade RAG reference, built for teaching.</strong></p>
-      <p>排序算法教学 RAG 平台：向量 + BM25 混合检索、RRF 融合排序、SSE 流式问答，完整 Spring Cloud Alibaba 微服务架构，Java RAG 实战的理想参考。</p>
-      <p><code>Java 21</code> <code>Spring AI</code> <code>Elasticsearch</code> <code>RAG</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>👗 <a href="https://github.com/StephenQiu30/then-server">Then · 于是</a></h3>
-      <a href="https://github.com/StephenQiu30/then-server/stargazers"><img src="https://img.shields.io/github/stars/StephenQiu30/then-server?style=social" alt="Then GitHub stars" /></a>
-      <p><strong>Your wardrobe, your day, beautifully organized.</strong></p>
-      <p>面向 iOS 的个人穿搭与生活管理 App：数字衣橱、穿搭计划、穿着日记与 3D 造型预览，Go 服务端打造离线优先、多端同步的体验。<em>持续迭代中。</em></p>
-      <p><code>Go</code> <code>SwiftUI</code> <code>PostgreSQL</code> <code>iOS</code></p>
-    </td>
-  </tr>
-</table>
+| Project | 简介 | Stars |
+| --- | --- | --- |
+| 🐳 **[Code Ark](https://github.com/StephenQiu30/code-ark)** | 开箱即用的 Docker Compose 本地开发中间件合集 | [![Stars](https://img.shields.io/github/stars/StephenQiu30/code-ark?style=flat-square&label=%E2%AD%90&color=111111)](https://github.com/StephenQiu30/code-ark/stargazers) |
+| 🎬 **[FrameFetch · 帧取](https://github.com/StephenQiu30/video-server)** | 自托管的视频解析与 AI 视频分析平台 | [![Stars](https://img.shields.io/github/stars/StephenQiu30/video-server?style=flat-square&label=%E2%AD%90&color=111111)](https://github.com/StephenQiu30/video-server/stargazers) |
+| 🔥 **[HotKey · 知微见澜](https://github.com/StephenQiu30/hotkey-server)** | 本地优先的 AI 热点监控与舆情日报 | [![Stars](https://img.shields.io/github/stars/StephenQiu30/hotkey-server?style=flat-square&label=%E2%AD%90&color=111111)](https://github.com/StephenQiu30/hotkey-server/stargazers) |
+| 🎭 **[Lanverse](https://github.com/StephenQiu30/lanverse)** | 从剧本到成片的 AI 短剧制作平台 | [![Stars](https://img.shields.io/github/stars/StephenQiu30/lanverse?style=flat-square&label=%E2%AD%90&color=111111)](https://github.com/StephenQiu30/lanverse/stargazers) |
+| 📚 **[Algorithm Cloud](https://github.com/StephenQiu30/algorithm-cloud)** | Spring AI 混合检索 RAG 教学平台 | [![Stars](https://img.shields.io/github/stars/StephenQiu30/algorithm-cloud?style=flat-square&label=%E2%AD%90&color=111111)](https://github.com/StephenQiu30/algorithm-cloud/stargazers) |
+| 👗 **[Then · 于是](https://github.com/StephenQiu30/then-server)** | iOS 个人穿搭与生活管理 App | [![Stars](https://img.shields.io/github/stars/StephenQiu30/then-server?style=flat-square&label=%E2%AD%90&color=111111)](https://github.com/StephenQiu30/then-server/stargazers) |
 
-<p align="center"><sub>⭐ 如果某个项目帮到了你，一个 Star 就是对开源最好的鼓励 · A star helps more developers discover these projects.</sub></p>
+<sub>⭐ 觉得有用就点个 Star 吧 · Stars help more developers find these projects.</sub>
 
-## 🧠 What I Do / 我在做什么
+## 🔭 Now / 正在做
 
-- 🤖 **AI Engineering** — RAG pipelines, AI Agents, hybrid search (vector + BM25 + RRF), prompt engineering, SSE streaming
-- ⚙️ **Backend at Scale** — Java · Spring Boot / Spring Cloud Alibaba · Go · Python · FastAPI · distributed systems & message queues
-- 🎨 **Full-Stack Delivery** — React · Next.js · TypeScript · Flutter · SwiftUI, from API to pixel
-- 🚀 **Shipped to Production** — 负责河南大学校级招聘系统 Java 后端建设，并推动正式投产上线
+- 🎭 **AI 短剧生产线** — 用 Go + Temporal 重建 Lanverse，打通剧本 → 分镜 → 视频 → 配音
+- 🎬 **AI 视频分析** — 为 FrameFetch 打磨会话复用与分析 Skill，让视频洞察更可靠
+- 🔥 **热点信号捕捉** — 让 HotKey 跑通真实来源采集与日报链路
+- 👗 **AI 穿搭体验** — 探索 Then 的完整穿搭图与 3D 造型生成
+
+**Focus:** RAG · AI Agent · AIGC Workflow · Self-hosted Tools · Distributed Backend
 
 ## 🛠️ Tech Stack / 技术栈
 
