@@ -2,17 +2,17 @@
 
 📍 **Shanghai, China** · 🤖 **AI Application Engineer** · 🛠️ **Full-stack Developer**
 
-I'm **Stephen Qiu ([@StephenQiu30](https://github.com/StephenQiu30))**. I build **Retrieval-Augmented Generation (RAG)** systems, **large language model (LLM) applications** and self-hosted software. My work spans Java backends, retrieval pipelines, Python workers and the web, desktop and mobile interfaces around them.
+I build **Retrieval-Augmented Generation (RAG)** systems, **large language model (LLM) applications** and self-hosted software, from retrieval pipelines and background jobs to web, desktop and mobile interfaces.
 
 我在上海做 AI 应用与全栈开发，主要使用 Java、Go、Python 和 TypeScript。这里记录了我围绕算法教学、视频与剧本分析、公开资讯阅读，以及日常创作和穿搭做的开源项目。
 
-对我来说，接上模型只是开始。我更关心回答引用了什么、任务失败后怎么继续、数据保存在哪里，以及用户能不能方便地核对和带走结果。这些问题贯穿了下面的检索、工作流和自托管项目。
+我关注回答的来源、任务失败后的恢复、数据的存储位置，以及结果的核对与导出。下面的项目记录了我在检索、工作流和自托管软件上的实践。
 
 ## Focus · 工程关注
 
-- **Retrieval that can be inspected · 能检查的检索** — 从文档解析、分片和索引，到向量与关键词混合召回、融合排序和流式问答；让知识库和召回结果有可检查的入口。
-- **AI results with sources · 有依据的 AI 结果** — 把分析与原始文本、视频帧和时间位置联系起来，方便阅读、复核和导出。
-- **The software around the model · 模型之外的软件** — API、后台任务、数据存储、多端交互和部署文档，都是我持续投入的部分。
+- **Inspectable retrieval · 可检查的检索** — 文档解析、分片、索引、混合召回与融合排序，让知识库和召回结果可以检查。
+- **AI results with sources · 有依据的 AI 结果** — 将分析关联到原始文本、视频帧和时间位置，方便复核与导出。
+- **The software around the model · 模型之外的软件** — 持续完善 API、后台任务、数据存储、多端交互和部署文档。
 
 ## Currently building · 近期在做
 
@@ -40,7 +40,7 @@ I'm **Stephen Qiu ([@StephenQiu30](https://github.com/StephenQiu30))**. I build 
 
 `Python / FastAPI` · `Next.js / TypeScript` · `PostgreSQL` · `Redis` · `Kafka`
 
-[Repository · 项目仓库](https://github.com/StephenQiu30/Ripplesight) · [Workspace · 产品与工程文档](https://github.com/StephenQiu30/Ripplesight/tree/main/workspace/content)
+[Repository · 项目仓库](https://github.com/StephenQiu30/Ripplesight) · [Docs · 产品与工程文档](https://github.com/StephenQiu30/Ripplesight/blob/main/docs/index.md)
 
 ## RAG & developer tools · 检索与开发工具
 
@@ -96,8 +96,8 @@ I'm **Stephen Qiu ([@StephenQiu30](https://github.com/StephenQiu30))**. I build 
 
 ## Let's connect · 联系我
 
-Happy to discuss **RAG, hybrid search, AI application development, Java backends and self-hosted software**. Questions, issues and pull requests are welcome.
+Happy to discuss **RAG, hybrid search, AI applications, Java backends and self-hosted software**.
 
-欢迎交流检索效果、后台任务、多端体验和自托管实践。遇到具体问题，可以在对应仓库留下复现步骤或样例；产品想法和文档改进也欢迎一起讨论。
+欢迎通过邮件交流项目想法与工程实践。具体问题请在对应仓库提交 Issue，并附上复现步骤或样例；文档改进与 Pull Request 同样欢迎。
 
-📧 [Popcornqhd@gmail.com](mailto:Popcornqhd@gmail.com) · [All repositories · 所有项目](https://github.com/StephenQiu30?tab=repositories)
+📧 [stephenqiu30@gmail.com](mailto:stephenqiu30@gmail.com) · [All repositories · 所有项目](https://github.com/StephenQiu30?tab=repositories)
