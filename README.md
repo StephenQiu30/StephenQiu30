@@ -100,4 +100,4 @@ Happy to discuss **RAG, hybrid search, AI applications, Java backends and self-h
 
 欢迎通过邮件交流项目想法与工程实践。具体问题请在对应仓库提交 Issue，并附上复现步骤或样例；文档改进与 Pull Request 同样欢迎。
 
-📧 [stephenqiu30@gmail.com](mailto:stephenqiu30@gmail.com) · [All repositories · 所有项目](https://github.com/StephenQiu30?tab=repositories)
+📧 [stephenqiu03@gmail.com](mailto:stephenqiu03@gmail.com) · [All repositories · 所有项目](https://github.com/StephenQiu30?tab=repositories)

@@ -61,12 +61,12 @@ Ripplesight 品牌名称依据：[品牌组件](https://github.com/StephenQiu30/
 | Location | Shanghai, China |
 | Profile repository description | Stephen Qiu — AI Application Engineer & Full-stack Developer. RAG, LLM applications and self-hosted tools. |
 
-Bio 为 116 个字符。Website 目前为空，没有发现应添加的独立个人网站，保留为空。公开联系邮箱于 2026-10-11 按用户确认更新为 `stephenqiu30@gmail.com`。
+Bio 为 116 个字符。Website 目前为空，没有发现应添加的独立个人网站，保留为空。公开联系邮箱于 2026-10-11 按用户确认更新为 `stephenqiu03@gmail.com`。
 
 ## 2026-10-11 联系方式与文案更新
 
 - 使用 beautify-github-readme 的 README 模式，按用户选择保留纯 Markdown、双语章节和六个项目的展示层次。
-- README 邮箱文字与 `mailto:` 链接统一为 `stephenqiu30@gmail.com`；同步本地 Git 全局 `user.email`，保留用户名与已有提交历史。
+- README 邮箱文字与 `mailto:` 链接统一为 `stephenqiu03@gmail.com`；同步本地 Git 全局 `user.email`，保留用户名与已有提交历史。
 - 精简开头重复的身份介绍和工程关注文案，联系区明确邮件交流与仓库 Issue / Pull Request 的入口。
 - 核对 Ripplesight 默认分支，将已失效的 `workspace/content` 链接改为 `docs/index.md`。
 - 验证：GitHub Markdown API 渲染的本地预览通过桌面浅色与 360px 窄屏深色检查，窄屏无横向溢出，邮箱显示与链接一致；技能的 `audit_readme.py` 和 `git diff --check` 通过。预览保存在仓库之外。
