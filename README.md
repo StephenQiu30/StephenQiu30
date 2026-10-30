@@ -14,13 +14,13 @@ AI Application Engineer · Full-stack Developer · Shanghai, China
 
 - **[Framefetch · 帧取](https://github.com/StephenQiu30/framefetch)** — 自托管视频下载与 AI 视频、剧本分析，支持核对来源和导出报告。[桌面端](https://github.com/StephenQiu30/framefetch-electron) · [移动端](https://github.com/StephenQiu30/framefetch-app)
 
-- **[Glowloom · 织光](https://github.com/StephenQiu30/glowloom-server)** — 围绕画布组织图片、视频、声音与素材的视觉创作工作台，持续开发中。
+- **[Glowloom · 织光](https://github.com/StephenQiu30/glowloom)** — 围绕画布组织图片、视频、声音与素材的视觉创作工作台，持续开发中。
 
 - **[AlgoFlow · 衍序](https://github.com/StephenQiu30/algoflow)** — 排序算法可视化与 RAG 教学问答，结合 Spring AI 和 Elasticsearch。
 
-- **[Ripplesight · 知微见澜](https://github.com/StephenQiu30/Ripplesight)** — 保留原始出处的公开资讯阅读与关键词监控，面向个人非商业使用。
+- **[Ripplesight · 知微见澜](https://github.com/StephenQiu30/ripplesight)** — 保留原始出处的公开资讯阅读与关键词监控，面向个人非商业使用。
 
-- **[Wearlog · 衣序](https://github.com/StephenQiu30/wearlog-server)** — 数字衣橱、穿搭计划与穿着记录；[iOS 客户端](https://github.com/StephenQiu30/wearlog-app)的云接入与同步仍在开发。
+- **[Wearlog · 衣序](https://github.com/StephenQiu30/wearlog)** — 数字衣橱、穿搭计划与穿着记录；[iOS 客户端](https://github.com/StephenQiu30/wearlog-app)的云接入与同步仍在开发。
 
 - **[Voira · 声伴](https://github.com/StephenQiu30/voira)** — 探索有形象、有声音的 AI 交流；静态人物页已运行，AI 与数字人链路待接入。
 
