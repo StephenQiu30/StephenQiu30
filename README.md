@@ -1,41 +1,36 @@
-# Hi, I’m Stephen Qiu
+# Hi, I’m StephenQiu30
 
-AI Application Engineer · Full-stack Developer · Shanghai, China
+AI Application Engineer · Agent & RAG · Shanghai, China
 
-我做 AI 应用与自托管工具，从检索、后台工作流到 Web 与原生客户端，关注模型能力如何成为日常可用的软件。
+专注做可落地的 AI 应用与全栈工程：从可控的多 Agent 持久化执行、混合检索 RAG 到多端交付，目前求职方向为上海 / 杭州的 AI 应用开发或 Java 后端岗位。
 
-## Focus · 关注方向
+## Focus · 核心方向
 
-- **RAG 与知识检索** — 文档解析、混合检索与来源引用，让回答可以回到原始材料核对。
-- **AI 应用与创作工具** — 视频与剧本分析、画布创作，以及数字人与角色交互。
-- **全栈与自托管** — API、异步任务、数据存储与多端体验，关注任务恢复和部署维护。
+- **Agent 工程与持久化执行** — 多 Agent 分工、Skill 管理、状态持久化与故障恢复，以及模型计费与并发账本。
+- **RAG 与知识检索** — 文档与音视频切片、混合检索、重排与来源引用，关注可核对与可评测。
+- **全栈与工程交付** — Java / Go / Python 后端、异步工作流（Temporal / Kafka / RabbitMQ）与 Web / 桌面 / 移动端交付。
 
-## Projects · 开源项目
+## Core Projects · 核心开源项目
 
-- **[Framefetch · 帧取](https://github.com/StephenQiu30/framefetch)** — 自托管视频下载与 AI 视频、剧本分析，支持核对来源和导出报告。[桌面端](https://github.com/StephenQiu30/framefetch-electron) · [移动端](https://github.com/StephenQiu30/framefetch-app)
+- **[Framefetch · 帧取](https://github.com/StephenQiu30/framefetch)** — 自托管视频解析与 AI 镜头分析工作台（`v0.3.0`）。基于 FastAPI + Next.js + Temporal 构建异步任务与故障恢复链路，支持结合时间轴与关键帧进行导演拆解、叙事结构分析与引用溯源，并提供 [Electron 桌面端](https://github.com/StephenQiu30/framefetch-electron) 与 [Flutter 移动端](https://github.com/StephenQiu30/framefetch-app)。
 
-- **[Glowloom · 织光](https://github.com/StephenQiu30/glowloom)** — 围绕画布组织图片、视频、声音与素材的视觉创作工作台，持续开发中。
+- **[Glowloom · 织光](https://github.com/StephenQiu30/glowloom)** — 个人开源的 AI 视觉创作画布与多 Agent 工作台。使用 Go 后端、Next.js 前端与独立 TypeScript Agent 服务，落地基于 Yjs 的画布协同编辑、[Pi Durable 持久化 Agent 执行框架](https://github.com/StephenQiu30/glowloom/tree/main/agent/src/pi-durable)与模型积分计费体系。
 
-- **[AlgoFlow · 衍序](https://github.com/StephenQiu30/algoflow)** — 排序算法可视化与 RAG 教学问答，结合 Spring AI 和 Elasticsearch。
+- **[AlgoFlow · 衍序](https://github.com/StephenQiu30/algoflow)** — 基于 Java 21 + Spring Boot 3.5 + Spring Cloud Alibaba + Spring AI + Elasticsearch 的算法学习 RAG 问答系统，配套 [Next.js 前端](https://github.com/StephenQiu30/algorithm-next)。
 
-- **[Ripplesight · 知微见澜](https://github.com/StephenQiu30/ripplesight)** — 保留原始出处的公开资讯阅读与关键词监控，面向个人非商业使用。
+## Other Projects · 其他项目
 
-- **[Wearlog · 衣序](https://github.com/StephenQiu30/wearlog)** — 数字衣橱、穿搭计划与穿着记录；[iOS 客户端](https://github.com/StephenQiu30/wearlog-app)的云接入与同步仍在开发。
+- **[Ripplesight · 知微见澜](https://github.com/StephenQiu30/ripplesight)** — 保留原始出处的公开资讯阅读与关键词监控（Python）。
+- **[Code Ark · 代码方舟](https://github.com/StephenQiu30/code-ark)** — 本地开发用的 Docker Compose 中间件集合（PostgreSQL / Redis / Kafka / MinIO 等）。
 
-- **[Voira · 声伴](https://github.com/StephenQiu30/voira)** — 探索有形象、有声音的 AI 交流；静态人物页已运行，AI 与数字人链路待接入。
-
-- **[Voira Pet](https://github.com/StephenQiu30/voira-pet)** — ChatGPT Work 角色宠物、动画素材与本地安装器。
-
-- **[Code Ark · 代码方舟](https://github.com/StephenQiu30/code-ark)** — 按需启动数据库、缓存、消息队列等基础服务的 Docker Compose 配置。
-
-## Stack · 常用技术
+## Stack · 技术栈
 
 - **语言** — Java · Go · Python · TypeScript
-- **框架与客户端** — Spring Boot / Spring AI · FastAPI · React / Next.js · Flutter · SwiftUI
-- **数据与基础设施** — PostgreSQL · Redis · Elasticsearch · Temporal · Docker Compose
+- **框架与协议** — Spring Boot / Spring Cloud Alibaba / Spring AI · FastAPI · React / Next.js · Flutter · Yjs
+- **数据与基础设施** — PostgreSQL · MySQL · Redis · Elasticsearch · Kafka · RabbitMQ · Temporal · Docker Compose
 
 ## Contact · 联系我
 
-欢迎交流 RAG、AI 应用与全栈工程。项目问题和建议请在对应仓库提交 Issue，也欢迎文档改进与 Pull Request。
+欢迎交流 AI 应用、Agent 工程、RAG 与后端开发。
 
 [stephenqiu03@gmail.com](mailto:stephenqiu03@gmail.com) · [All repositories · 所有项目](https://github.com/StephenQiu30?tab=repositories)
