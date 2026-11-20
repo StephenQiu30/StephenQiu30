@@ -2,7 +2,7 @@
 
 AI Application Engineer · Agent & RAG · Shanghai, China
 
-专注做可落地的 AI 应用与全栈工程：从可控的多 Agent 持久化执行、混合检索 RAG 到多端交付，目前求职方向为上海 / 杭州的 AI 应用开发或 Java 后端岗位。
+专注做可落地的 AI 应用与全栈工程：从可控的多 Agent 持久化执行、混合检索 RAG 到多端交付，目前求职方向为上海的 AI 应用开发或全展开发岗位。
 
 ## Focus · 核心方向
 
